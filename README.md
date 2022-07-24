@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pelpan GitHub ID&layout=compact&hide_border=true&langs_count=10)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pelpan&layout=compact&hide_border=true&langs_count=10)
