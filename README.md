@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Here's Pele
 
 <!--
 **pelpan/pelpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pelpan GitHub ID&layout=compact&hide_border=true&langs_count=10)
