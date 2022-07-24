@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Pele's GitHub stats](https://github-readme-stats.vercel.app/api?username=pelpan)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelpan&layout=compact&hide_border=true&langs_count=10" alt="Most used languages" style="zoom: 150%;" />
+<div align="center">
+ <img height="137px" src="https://github-readme-stats.vercel.app/api?username=pelpan" />
+ <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelpan&layout=compact&hide_border=true&langs_count=10" />
+</div>
