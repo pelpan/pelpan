@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
- <img height="137px" src="https://github-readme-stats.vercel.app/api?username=pelpan" />
- <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelpan&layout=compact&hide_border=true&langs_count=10" />
+ <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=pelpan" />
+ <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelpan&layout=compact&hide_border=true&langs_count=10" />
 </div>
