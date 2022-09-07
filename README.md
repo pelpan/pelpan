@@ -11,8 +11,8 @@ Welcome to my GitHub Page 👨🏻‍💻
 
 ### Development Env.
 ![](https://img.shields.io/static/v1?label=macOS&message=Monterey%2012.5.1&color=gray&logo=Apple&labelColor=black&style=flat)
-![](https://img.shields.io/static/v1?&label=iOS&message=16.0%20Developer%20Beta%207&color=gray&logo=apple&labelColor=black&style=flat)
-![](https://img.shields.io/static/v1?&label=iPadOS&message=15.5&color=gray&logo=apple&labelColor=black&style=flat)
+![](https://img.shields.io/static/v1?&label=iOS&message=16.0%20Developer%20Beta%208&color=gray&logo=apple&labelColor=black&style=flat)
+![](https://img.shields.io/static/v1?&label=iPadOS&message=15.6.1&color=gray&logo=apple&labelColor=black&style=flat)
 ![](https://img.shields.io/static/v1?label=Ubuntu&message=20.04%20LTS&color=%23e95420&logo=ubuntu&labelColor=%23772953&style=flat)
 
 ### Tools
