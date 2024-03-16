@@ -1,8 +1,10 @@
 ### Hi there 👋 Here's Pele
 Welcome to my GitHub Page 👨🏻‍💻
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=93B7F7&vCenter=true&random=false&width=435&lines=A+week+is+2%25+of+the+year.;%E7%84%A1+%E9%99%90+%E9%80%B2+%E6%AD%A5)](https://git.io/typing-svg)
+
 ### Title
-![](https://img.shields.io/static/v1?label=NSB-CN&message=Former%20Work%20Student%20&color=%23fff&logo=nokia&labelColor=%23124191&style=for-the-badge)
+Fighting for a *Master's Degree* 🎓
 
 
 ### Platform
@@ -10,9 +12,9 @@ Welcome to my GitHub Page 👨🏻‍💻
 ![](https://img.shields.io/static/v1?label=&message=GitLab%20EE&logo=gitlab&style=social&color=%23FC6D26)
 
 ### Development Env.
-![](https://img.shields.io/static/v1?label=macOS&message=Ventura%2014.1.1&color=gray&logo=Apple&labelColor=black&style=flat)
-![](https://img.shields.io/static/v1?&label=iOS&message=17.1.1%20&color=gray&logo=apple&labelColor=black&style=flat)
-![](https://img.shields.io/static/v1?&label=iPadOS&message=17.1.1&color=gray&logo=apple&labelColor=black&style=flat)
+![](https://img.shields.io/static/v1?label=macOS&message=Ventura%2014.4&color=gray&logo=Apple&labelColor=black&style=flat)
+![](https://img.shields.io/static/v1?&label=iOS&message=17.4%20&color=gray&logo=apple&labelColor=black&style=flat)
+![](https://img.shields.io/static/v1?&label=iPadOS&message=17.4&color=gray&logo=apple&labelColor=black&style=flat)
 ![](https://img.shields.io/static/v1?label=Ubuntu&message=22.04%20LTS&color=%23e95420&logo=ubuntu&labelColor=%23772953&style=flat)
 ![](https://img.shields.io/badge/Azure-%230078D4?logo=microsoftazure)
 ![](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white)
@@ -43,3 +45,6 @@ Here are some ideas to get you started:
  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=pelpan&theme=tokyonight" />
  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelpan&layout=compact&hide_border=true&langs_count=10&theme=tokyonight" />
 </div>
+
+
+
